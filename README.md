@@ -5,5 +5,5 @@
 
 ![alt text](portss.png)
 
-[GitHub](https://github.com/N-Person)
-[GitHubIO](https://www.example.com)
+[GitHub](https://github.com/N-Person/portfolio)
+[GitHubIO](https://n-person.github.io/portfolio/)
